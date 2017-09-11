@@ -1271,5 +1271,6 @@
     "test-robot-name-02337": "stress",
     "test-robot-name-02340": "stress",
     "test-robot-name-02341": "stress",
-    "test-robot-name-02341": "prerelease"
+    "test-robot-name-02341": "prerelease",
+    "test-robot-name-02341test": "stress"
 }
